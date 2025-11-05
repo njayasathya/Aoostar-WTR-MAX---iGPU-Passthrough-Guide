@@ -323,6 +323,7 @@ vfio_pci_core          86016  1 vfio_pci
 vfio_iommu_type1       49152  1
 vfio                   65536  23 vfio_pci_core,vfio_iommu_type1,vfio_pci
 iommufd               110592  1 vfio
+irqbypass              12288  56 vfio_pci_core,kvm
 ```
 
 ✅ **All VFIO modules loaded**
