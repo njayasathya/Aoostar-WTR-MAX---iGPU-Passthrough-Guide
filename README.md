@@ -30,6 +30,11 @@
 
 ---
 
+---
+## My TrueNAS VM hardware (After adding the gpu)
+![alt text](image.png)
+---
+
 ## Step-by-Step Configuration
 
 ### Step 1: Verify GPU Information
